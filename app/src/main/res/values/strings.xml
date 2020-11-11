@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">urbio</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="masukkan_nama_lengkap">Masukkan Nama Lengkap</string>
+    <string name="nim">NIM</string>
+    <string name="masukkan_nim">Masukkan NIM</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="masukkan_jurusan">Masukkan Jurusan</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="alamat">Alamat</string>
+    <string name="masukkan_alamat">Masukkan Alamat</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="bulan">Bulan</string>
+    <string name="tahun">Tahun</string>
+    <string name="kirim">KIRIM</string>
+    <string name="txtAlertTanggal">TextView</string>
+    <string name="avatar">ava</string>
+    <string name="txt_nama">Nama</string>
+    <string name="etc1">:</string>
+    <string name="txt_nim">NIM</string>
+    <string name="etc2">:</string>
+    <string name="txt_jurusan">Jurusan</string>
+    <string name="txt_jenis_kelamin">Jenis Kelamin</string>
+    <string name="txt_alamat">Alamat</string>
+    <string name="etc3">:</string>
+    <string name="txt_tanggal_lahir">Tanggal Lahir</string>
+    <string name="etc4">:</string>
+    <string name="etc5">:</string>
+    <string name="etc6">:</string>
+</resources>
